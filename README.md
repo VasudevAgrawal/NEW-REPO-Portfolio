@@ -29,16 +29,16 @@ Edit `src/data/data.js` to add your information:
 
 ```
 export const about = {
-  name: "Your Name",
-  role: "Your Role",
-  about: "Your bio and description...",
-  email: "your.email@example.com"
+  name: "Vasudev Agrawal",
+  role: "Final year B.Tech ",
+  about: "Final Year B.Tech AIML student with hands-on experience in machine learning projects and Python development.Demonstrated skills in deep learning, recommendation systems, and web development, with practical application through internship and hackathon participation. Eager to apply technical knowledge to innovative AI solutions.",
+  email: "mailvasudevagrawal@gmail.com"
 };
 
 export const seo = {
-    title: "Minimal, clean Next.js portfolio template",
-    description: "Minimal, clean Next.js portfolio template for developers seeking a simple, professional online presence without extra complexity.",
-    keywords: "portfolio, web developer, Next.js, developer portfolio, minimal portfolio",
+    title: "Fashion Recommendation System",
+    description: "Developed an image-based clothing recommender using pre-trained ResNet50 for feature extraction and Nearest Neighbors algorithm for matching visually similar fashion items.Implemented both collaborative and content-based filtering techniques to enhance recommendation accuracy.Built an interactive web interface using Streamlit for intuitive user experience and result visualization.",
+    keywords: "Python, Deep Learning, Streamlit are used in this project",
 }
 
 export const forms = {
@@ -51,8 +51,8 @@ export const skills = [
 ];
 
 export const socials = {
-  github: "https://github.com/yourusername",
-  twitter: "https://twitter.com/yourusername"
+  github: "https://github.com/VasudevAgrawal",
+  Linkdin: "https://www.linkedin.com/in/vasudev-agrawal-0a427b240/"
 };
 
 export const projects = {
