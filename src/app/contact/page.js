@@ -17,7 +17,7 @@ function Contact() {
                     </h1>
                     <div className="p-1">
                         <form
-                            action={forms.formspreeUrl}
+                            action="https://formspree.io/f/mdkpvgge"
                             method="POST"
                             className="flex flex-col"
                         >

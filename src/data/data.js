@@ -1,8 +1,8 @@
 export const about = {
-    name: "Your Name",
-    role: "Your Profession",
-    about: "A minimal, clean portfolio template built with Next.js. Perfect for developers who want a simple yet professional online presence without the complexity.",
-    email: "your.email@example.com",
+    name: "Vasudev Agrawal",
+    role: "Final year B.Tech",
+    about: "Final Year B.Tech AIML student with hands-on experience in machine learning projects and Python development.Demonstrated skills in deep learning, recommendation systems, and web development, with practical applicationthrough internship and hackathon participation. Eager to apply technical knowledge to innovative AI solutions.",
+    email: "Mailvasudevagrawal@gmail.com",
 };
 
 export const seo = {
@@ -25,10 +25,10 @@ export const skills = [
 ];
 
 export const socials = {
-    github: "https://github.com/sachinbhujel",
+    github: "https://github.com/VasudevAgrawal",
     twitter: "https://twitter.com/sachinbhujel909",
-    instagram: "https://www.instagram.com/imsachinbhujel",
-    facebook: "https://www.facebook.com/imsachinbhujel",
+    instagram: "https://www.instagram.com/_.iam.vasuuu?igsh=MTM3aW03a3BsemhnaA==",
+    facebook: "https://www.instagram.com/_.iam.vasuuu?igsh=MTM3aW03a3BsemhnaA==",
 };
 
 export const projects = {
