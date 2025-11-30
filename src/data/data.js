@@ -105,8 +105,8 @@ export const experience = [
 export const blogs = [
     {
         title: "How I Built My First End-to-End Machine Learning Project",
-        date: "12/03/2025",
-        link: "#",
+        date: "30/11/2025",
+        link: "https://medium.com/@agrawalvasudev1000/how-i-built-my-first-end-to-end-machine-learning-project-d9a9e869904b",
     },
     {
         title: "CSS Grid vs Flexbox: When to Use Which",
