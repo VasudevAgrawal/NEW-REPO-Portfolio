@@ -1,7 +1,7 @@
 export const about = {
     name: "Vasudev Agrawal",
-    role: "Final year B.Tech",
-    about: "Final Year B.Tech AIML student with hands-on experience in machine learning projects and Python development.Demonstrated skills in deep learning, recommendation systems, and web development, with practical application through internship and hackathon participation. Eager to apply technical knowledge to innovative AI solutions.",
+    role: "B.Tech(AI&ML)",
+    about: "Computer Science (AI & ML) graduate and aspiring Software Developer with hands-on experience designing REST APIs and full-stack applications using Python, FastAPI, Flask, and AWS. Strong foundation in Object-Oriented Design, SOLID principles, Data Structures, and clean, iterative coding practices. A collaborative team player who enjoys pairing, code reviews, and tackling ambiguous problems from multiple angles to deliver meaningful solutions.",
     email: "Mailvasudevagrawal@gmail.com",
 };
 
@@ -27,7 +27,7 @@ export const skills = [
 
 export const socials = {
     github: "https://github.com/VasudevAgrawal",
-    twitter: "https://twitter.com/sachinbhujel909",
+    twitter: "",
     instagram: "https://www.instagram.com/_.iam.vasuuu?igsh=MTM3aW03a3BsemhnaA==",
     facebook: "https://www.instagram.com/_.iam.vasuuu?igsh=MTM3aW03a3BsemhnaA==",
 };
@@ -39,43 +39,36 @@ export const projects = {
             description:
                 " Developed an image-based clothing recommender using pre-trained ResNet50 for feature extraction and Nearest Neighbors algorithm for matching visually similar fashion items Implemented both collaborative and content-based filtering techniques to enhance recommendation accuracy Built an interactive web interface using Streamlit for intuitive user experience and result visualization ",
             tags: ["Python","Deep Learning","Streamlit"],
+            link: "https://github.com/VasudevAgrawal/Content-Based-Image-Retrieval",
+        },
+        {
+            title: "Interview Assessment Platform",
+            description:
+                "Interview Assessment Platform is a backend application built with FastAPI that streamlines the technical hiring process by managing coding assessments, candidate submissions, and interviewer feedback. The platform features secure authentication, RESTful APIs, and a modular architecture based on Object-Oriented Design principles for scalability and maintainability.",
+            tags: ["FastAPI","RESTful API", "OOPS"],
+            link: "https://github.com/VasudevAgrawal/interview-assessment-platform",
+        },
+        {
+            title: " Machine Learning Pipeline for Spam Email Detection Machine Learning Pipeline for Spam Email Detection",
+            description:
+                "A Designed an ML pipeline to classify spam vs. legitimate emails using NLP techniques (tokenization, stopword removal, TF-IDF).Trained and compared models such as Logistic Regression, Decision Tree, Naive Bayes, and Random Forest.Demonstrated application of AI in cybersecurity by automating email threat detection. fast and scalable online store with product listings, cart functionality, and seamless checkout experience. Built for performance.",
+            tags: ["Python", "Streamlit"],
             link: "",
         },
         {
-            title: " Sentiment-Aware Product Recommendation System",
+            title: " Code Review & Collaboration Platform",
             description:
-                "Designed and implemented a Sentiment-Aware Product Recommendation System integrating sentiment analysis with collaborative filtering.Prioritized recommendations based on sentiment-weighted product similarity.Built using Python, scikit-learn/TensorFlow, and optional Flask web interface.Improved recommendation relevance by filtering out low-sentiment products.A clean, minimal blog setup featuring dynamic content, category filters, and easy-to-read layouts. Perfect for sharing your ideas.",
-            tags: ["Docker","AWS", "MYSQL","Mongodb"],
-            link: "",
-        },
-        {
-            title: "Project 3",
-            description:
-                "A fast and scalable online store with product listings, cart functionality, and seamless checkout experience. Built for performance.",
-            tags: ["CSS", "React Js"],
-            link: "",
+                "Developed a Code Review & Collaboration Platform with authentication, role-based access control, code review workflows, issue tracking, and team discussion features using FastAPI and RESTful APIs.A Designed an ML pipeline to classify spam vs. legitimate emails using NLP techniques (tokenization, stopword removal, TF-IDF).Trained and compared models such as Logistic Regression, Decision Tree, Naive Bayes, and Random Forest.Demonstrated application of AI in cybersecurity by automating email threat detection. fast and scalable online store with product listings, cart functionality, and seamless checkout experience. Built for performance.",
+            tags: ["Python", "FastAPI","RESTful APIs."],
+            link: "https://github.com/VasudevAgrawal/code-review-collaboration-platform",
         },
     ],
     otherProjects: [
         {
-            title: "Project 4",
+            title: "Scalable Web Application Deployment on AWS",
             description:
-                "A sleek, modern portfolio site to showcase your work and skills. Responsive design with smooth navigation and SEO optimization.",
-            tags: ["CSS", "React Js"],
-            link: "",
-        },
-        {
-            title: "Project 5",
-            description:
-                "A clean, minimal blog setup featuring dynamic content, category filters, and easy-to-read layouts. Perfect for sharing your ideas.",
-            tags: ["CSS", "React Js"],
-            link: "",
-        },
-        {
-            title: "Project 6",
-            description:
-                "A fast and scalable online store with product listings, cart functionality, and seamless checkout experience. Built for performance.",
-            tags: ["CSS", "React Js"],
+                "Deployed a scalable web application on AWS using multiple EC2 instances and Elastic Load Balancer for traffic distribution and high availability. ",
+            tags: ["AWS EC2", "Elastic Load Balancer", "Docker", "CI/CD", "Linux "],
             link: "",
         },
     ],
@@ -88,18 +81,6 @@ export const experience = [
             "Completed multiple projects using AI/ML with strong problem-solving and implementation skills.Demonstrated solid technical abilities and high-quality documentation throughout all tasks.Shown commendable dedication, consistency, and responsibility in every assigned role.Contributed effectively as a valuable member of the team.Wishing continued success in all future endeavours.Worked on building and maintaining responsive web applications using React.js and Next.js, improving UI performance and user experience.",
         date: "03/03/2025",
     },
-    {
-        title: "Web Developer Intern at Creative Studio",
-        description:
-            "Assisted in designing website layouts, wrote clean HTML/CSS code, and collaborated with the team on JavaScript features for client projects.",
-        date: "10/06/2023",
-    },
-    {
-        title: "Junior Developer at Innovate Labs",
-        description:
-            "Developed and tested frontend components, optimized web pages for speed, and contributed to team code reviews and debugging sessions.",
-        date: "01/09/2022",
-    },
 ];
 
 export const blogs = [
@@ -109,13 +90,13 @@ export const blogs = [
         link: "https://medium.com/@agrawalvasudev1000/how-i-built-my-first-end-to-end-machine-learning-project-d9a9e869904b",
     },
     {
-        title: "CSS Grid vs Flexbox: When to Use Which",
-        date: "25/12/2024",
-        link: "#",
+        title: "How REST APIs Work: A Beginner’s Guide",
+        date: "16/06/2026",
+        link: "https://medium.com/@agrawalvasudev1000/how-rest-apis-work-a-beginners-guide-f2a89c62be5f",
     },
     {
-        title: "Next.js SEO Best Practices",
-        date: "10/07/2024",
-        link: "#",
+        title: "Why Every Developer Should Learn Git and GitHub",
+        date: "17/06/2026",
+        link: "https://medium.com/@agrawalvasudev1000/why-every-developer-should-learn-git-and-github-404e5776e4fc",
     },
 ];

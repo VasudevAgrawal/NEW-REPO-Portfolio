@@ -5,7 +5,7 @@ export default function Profile() {
     return (
         <>
             <img
-                src="https://i.imgur.com/zjGPTRC.jpeg"
+                src="https://github.com/VasudevAgrawal/NEW-REPO-Portfolio/blob/main/WhatsApp%20Image%202025-11-29%20at%2012.13.37.jpeg"
                 className="w-[70px] h-[70px] rounded-[50%] object-cover object-center"
                 alt={`${about.name}'s profile`}
             />
