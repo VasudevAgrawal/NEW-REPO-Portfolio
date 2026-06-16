@@ -51,14 +51,14 @@ export const projects = {
         {
             title: " Machine Learning Pipeline for Spam Email Detection Machine Learning Pipeline for Spam Email Detection",
             description:
-                "A Designed an ML pipeline to classify spam vs. legitimate emails using NLP techniques (tokenization, stopword removal, TF-IDF).Trained and compared models such as Logistic Regression, Decision Tree, Naive Bayes, and Random Forest.Demonstrated application of AI in cybersecurity by automating email threat detection. fast and scalable online store with product listings, cart functionality, and seamless checkout experience. Built for performance.",
+                "Built an ML-based spam classifier using NLP techniques (tokenization, stopword removal, TF-IDF) and compared Logistic Regression, Naive Bayes, Decision Tree, and Random Forest models, with a Streamlit interface for real-time predictions.",
             tags: ["Python", "Streamlit"],
             link: "",
         },
         {
             title: " Code Review & Collaboration Platform",
             description:
-                "Developed a Code Review & Collaboration Platform with authentication, role-based access control, code review workflows, issue tracking, and team discussion features using FastAPI and RESTful APIs.A Designed an ML pipeline to classify spam vs. legitimate emails using NLP techniques (tokenization, stopword removal, TF-IDF).Trained and compared models such as Logistic Regression, Decision Tree, Naive Bayes, and Random Forest.Demonstrated application of AI in cybersecurity by automating email threat detection. fast and scalable online store with product listings, cart functionality, and seamless checkout experience. Built for performance.",
+                "Built a platform for code reviews, issue tracking, and team discussions using FastAPI and RESTful APIs, with authentication and role-based access control for secure, maintainable backend services.",
             tags: ["Python", "FastAPI","RESTful APIs."],
             link: "https://github.com/VasudevAgrawal/code-review-collaboration-platform",
         },
